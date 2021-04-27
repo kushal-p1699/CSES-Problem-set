@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\_03_Repetitions.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\_03_Repetitions.dir/objects.a @CMakeFiles\_03_Repetitions.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\_03_Repetitions.dir/objects.a -Wl,--no-whole-archive -o _03_Repetitions.exe -Wl,--out-implib,lib_03_Repetitions.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\_03_Repetitions.dir\linklibs.rsp
